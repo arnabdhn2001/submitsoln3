@@ -1,0 +1,32 @@
+#header-navbar {
+	background-color: yellow;
+	height: 100px;
+}
+#navbar-text {
+	color: black;
+	text-align: left;
+	font-size: 40px;
+}
+/* paragraph stylings*/
+
+ p {
+ 	font-size: 20px;
+
+ }
+ h2 {
+ 	text-align: center;
+ }
+ #div1 {
+ 	background-color: grey;
+ 	border: 8px;
+ 	
+ }
+ #div2 {
+ 	background-color: grey;
+ 	border: 8px;
+
+ }
+ #div3 {
+ 	background-color: grey;
+ 	border: 8px;
+ }
